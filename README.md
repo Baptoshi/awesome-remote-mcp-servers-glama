@@ -806,6 +806,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Shingou](https://shingou.io) `https://api.shingou.io/mcp`
   [![Shingou MCP connector](https://glama.ai/mcp/connectors/io.shingou/sentiment/badges/score.svg)](https://glama.ai/mcp/connectors/io.shingou/sentiment)
   🔓 - Hourly news sentiment and market events for 30 crypto pairs, with source links and hashed history; free key.
+- [Silicon Floor](https://siliconfloor.com/docs/mcp) `https://siliconfloor.com/mcp`
+  [![Silicon Floor MCP connector](https://glama.ai/mcp/connectors/com.siliconfloor/silicon-floor/badges/score.svg)](https://glama.ai/mcp/connectors/com.siliconfloor/silicon-floor)
+  🔓 - 220 AI and chip stocks: who owns them, insider trades and financials from SEC filings, plus FINRA short interest.
 - [SNACS](https://snacs.trade/api) `https://mcp.snacs.trade`
   [![SNACS MCP connector](https://glama.ai/mcp/connectors/trade.snacs.mcp/snacstrade/badges/score.svg)](https://glama.ai/mcp/connectors/trade.snacs.mcp/snacstrade)
   🔐 - Point-in-time SEC filings, dilution forensics, market data and fundamentals for US equities.
