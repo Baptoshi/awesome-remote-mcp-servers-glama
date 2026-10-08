@@ -808,7 +808,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Hourly news sentiment and market events for 30 crypto pairs, with source links and hashed history; free key.
 - [Silicon Floor](https://siliconfloor.com/docs/mcp) `https://siliconfloor.com/mcp`
   [![Silicon Floor MCP connector](https://glama.ai/mcp/connectors/com.siliconfloor/silicon-floor/badges/score.svg)](https://glama.ai/mcp/connectors/com.siliconfloor/silicon-floor)
-  🔓 - 220 AI and chip stocks: who owns them, insider and hedge fund trades, SEC financials and FINRA short interest.
+  🔓 - Follow the smart money in AI stocks: who owns what, what insiders and hedge funds buy and sell, straight from the SEC.
 - [SNACS](https://snacs.trade/api) `https://mcp.snacs.trade`
   [![SNACS MCP connector](https://glama.ai/mcp/connectors/trade.snacs.mcp/snacstrade/badges/score.svg)](https://glama.ai/mcp/connectors/trade.snacs.mcp/snacstrade)
   🔐 - Point-in-time SEC filings, dilution forensics, market data and fundamentals for US equities.
